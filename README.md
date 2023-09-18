@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **node.js, HMTL, CSS, Javascript, Java, SQL**
 
-- 📫 How to reach me **sakshamshrey@gmail.com**
+- 📫 Reach me at **sakshamshrey@gmail.com**
 
 - ⚡ Fun fact **I add milk before adding cereals 😙**
 
