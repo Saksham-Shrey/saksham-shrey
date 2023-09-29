@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **application development using flutter**
 
-- 📝 I regularly write articles on [sakshamshrey.hashnode.dev](sakshamshrey.hashnode.dev)
+- 📝 I regularly write articles on [https://sakshamshrey.hashnode.dev](sakshamshrey.hashnode.dev)
 
 - 💬 Ask me about **node.js, HMTL, CSS, Javascript, Java, SQL**
 
