@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Shrey</h1>
 <h3 align="center">A passionate full-stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-shrey&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-shrey" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-shrey" alt="saksham-shrey" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@sakshamshrey" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamshrey?logo=twitter&style=for-the-badge" alt="@sakshamshrey" /></a> </p>
