@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-shrey" alt="saksham-shrey" /></a> </p>
 
+[![An image of @sakshamshrey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshamshrey)](https://holopin.io/@sakshamshrey)
+
+
 <p align="left"> <a href="https://twitter.com/@sakshamshrey" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamshrey?logo=twitter&style=for-the-badge" alt="@sakshamshrey" /></a> </p>
 
 - 🌱 I’m currently learning **application development using flutter**
