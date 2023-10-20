@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sakshamshrey" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamshrey?logo=twitter&style=for-the-badge" alt="@sakshamshrey" /></a> </p>
 
-- 🌱 I’m currently learning **application development using flutter**
+- 🌱 I’m currently learning **Native Mobile Application development using Swift**
 
 - 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SakshamShrey)
 
