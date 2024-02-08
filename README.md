@@ -15,7 +15,7 @@
 
 - I regularly write articles on [Hashnode](https://hashnode.com/@SakshamShrey)
 
-- Ask me about **node.js, HMTL, CSS, Javascript, Java, SQL**
+- Ask me about **Swift, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL**
 
 - Reach me at **sakshamshrey@gmail.com**
 
