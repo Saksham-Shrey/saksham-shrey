@@ -82,7 +82,6 @@
   <a href="https://www.apple.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Swift" width="40" height="40"/> </a> 
             
     
-            />
                 
   </p>
 
