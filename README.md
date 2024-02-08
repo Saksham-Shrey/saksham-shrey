@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@sakshamshrey" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamshrey?logo=twitter&style=for-the-badge" alt="@sakshamshrey" /></a> </p>
 
-- 🌱 I’m currently learning **Native Mobile Application development using Swift**
+- I’m currently learning **Native Mobile Application development using Swift**
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SakshamShrey)
+- I regularly write articles on [Hashnode](https://hashnode.com/@SakshamShrey)
 
-- 💬 Ask me about **node.js, HMTL, CSS, Javascript, Java, SQL**
+- Ask me about **node.js, HMTL, CSS, Javascript, Java, SQL**
 
-- 📫 Reach me at **sakshamshrey@gmail.com**
+- Reach me at **sakshamshrey@gmail.com**
 
-- ⚡ Fun fact **I add milk before adding cereals 😙**
+- Fun fact **I add milk before adding cereals 😙**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
