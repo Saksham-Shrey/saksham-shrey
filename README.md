@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Saksham Shrey</h1>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-shrey" alt="saksham-shrey" /></a> </p>
+-->
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
@@ -9,26 +11,22 @@
 <!-- [![An image of @sakshamshrey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshamshrey)](https://holopin.io/@sakshamshrey) -->
 
 
-<p align="left"> <a href="https://twitter.com/@sakshamshrey" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamshrey?logo=twitter&style=for-the-badge" alt="@sakshamshrey" /></a> </p>
+-- I’m currently learning **Native Mobile Application development using Swift**
 
-- I’m currently learning **Native Mobile Application development using Swift**
+-- I regularly write articles on [Hashnode](https://hashnode.com/@SakshamShrey)
 
-- I regularly write articles on [Hashnode](https://hashnode.com/@SakshamShrey)
+-- Ask me about **Swift, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL**
 
-- Ask me about **Swift, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL**
-
-- Reach me at **sakshamshrey@gmail.com**
-
-- Fun fact **I add milk before adding cereals 😙**
+-- Reach me at **sakshamshrey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
-!-- 
 <a href="https://twitter.com/@sakshamshrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sakshamshrey" height="30" width="40" /></a> <a href="https://linkedin.com/in/saksham-shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-shrey" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/20044326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20044326" height="30" width="40" /></a> <a href="https://hashnode.com/@SakshamShrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sakshamshrey" height="30" width="40" /></a> <a href="https://medium.com/@sakshamshrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sakshamshrey" height="30" width="40" /></a>
 </p>
---!
+
+<p align="left"> <a href="https://twitter.com/@sakshamshrey" target="blank"><img src="https://img.shields.io/twitter/follow/sakshamshrey?logo=twitter&style=for-the-badge" alt="@sakshamshrey" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
