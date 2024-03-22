@@ -43,7 +43,9 @@
 <p><a href="https://www.buymeacoffee.com/sakshamshrey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sakshamshrey" /></a></p><br><br>
 -->
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-shrey&show_icons=true&locale=en" alt="saksham-shrey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-shrey&show_icons=true&locale=en&theme=tokyonight" alt="saksham-shrey" /></p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-shrey&show_icons=true&locale=en" alt="saksham-shrey" /></p> -->
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-shrey&show_icons=true&locale=en&theme=tokyonight" alt="saksham-shrey" /></p>
+-->
 
