@@ -11,16 +11,23 @@
 <!-- [![An image of @sakshamshrey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sakshamshrey)](https://holopin.io/@sakshamshrey) -->
 
 
--- I’m currently learning **Native Mobile Application development using Swift**
+<div>
+          <ul>
+<li> I’m currently learning <strong>Native Mobile Application development using Swift</strong></li>
 
--- I regularly write articles on [Hashnode](https://hashnode.com/@SakshamShrey)
+<li> I write articles on <a href = "https://hashnode.com/@SakshamShrey"> <strong> Hashnode </strong> </a> </li>
 
--- Ask me about **Swift, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL**
+<li> Ask me about <strong>Swift, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL </strong></li>
 
--- Reach me at **sakshamshrey@gmail.com**
+<li> Reach me at <strong> <a href = "mailto:sakshamshrey@gmail.com"> sakshamshrey@gmail.com </strong> </li>
+
+</ul>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
 
 
 <a href="https://twitter.com/@sakshamshrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sakshamshrey" height="30" width="40" /></a> <a href="https://linkedin.com/in/saksham-shrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-shrey" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/20044326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20044326" height="30" width="40" /></a> <a href="https://hashnode.com/@SakshamShrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="sakshamshrey" height="30" width="40" /></a> <a href="https://medium.com/@sakshamshrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sakshamshrey" height="30" width="40" /></a>
