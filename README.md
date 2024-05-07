@@ -17,7 +17,7 @@
 
 <li> I write articles on <a href = "https://hashnode.com/@SakshamShrey"> <strong> Hashnode </strong> </a> </li>
 
-<li> Ask me about <strong>Swift, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL </strong></li>
+<li> Ask me about <strong>Swift, SwiftUI, UIKit, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL </strong></li>
 
 <li> Reach me at <strong> <a href = "mailto:sakshamshrey@gmail.com"> sakshamshrey@gmail.com </strong> </li>
 
@@ -50,7 +50,11 @@
 <p><a href="https://www.buymeacoffee.com/sakshamshrey"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sakshamshrey" /></a></p><br><br>
 -->
 <br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-shrey&show_icons=true&locale=en&theme=tokyonight" alt="saksham-shrey" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saksham-shrey&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-shrey&show_icons=true&locale=en&theme=tokyonight" alt="saksham-shrey" /></p>
