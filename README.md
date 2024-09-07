@@ -3,10 +3,15 @@
 <h1 align="center">Hello, I'm Saksham Shrey</h1>
 
 
-**➤ I’m currently working on Native Mobile (iOS) Application development using SwiftUI.**  
-**➤ I write articles on [Hashnode](https://sakshamshrey.hashnode.dev/).**  
-**➤ Ask me about Swift, SwiftUI, UIKit, Firebase, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL.**  
-**➤ Reach me at [sakshamshrey@gmail.com](mailto:sakshamshrey@gmail.com)**
+<div style="font-size: 20px;">
+  <strong>➤ I’m currently working on Native Mobile (iOS) Application development using SwiftUI.</strong>  
+  <br>
+  <strong>➤ I write articles on <a href="https://sakshamshrey.hashnode.dev/">Hashnode</a>.</strong>  
+  <br>
+  <strong>➤ Ask me about Swift, SwiftUI, UIKit, Firebase, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL.</strong>  
+  <br>
+  <strong>➤ Reach me at <a href="mailto:sakshamshrey@gmail.com">sakshamshrey@gmail.com</a></strong>
+</div>
 
 <br>
 
@@ -22,6 +27,7 @@
 <img src="https://img.shields.io/twitter/follow/SakshamShrey?logo=X&logoColor=white&label=%40SakshamShrey&labelColor=black&color=black&style=plastic" alt="Twitter" height="40" width="200">
 </div>
 
+<br>
 <br>
 
 
@@ -62,6 +68,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="40" width="120">
 </div>
 
+<br>
 <br>
 
 
