@@ -12,7 +12,7 @@
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-shrey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20044326) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SakshamShrey?style=flat&logo=X&logoColor=white&label=%40SakshamShrey&labelColor=black&color=black)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/saksham-shrey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/20044326) ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/SakshamShrey?style=flat&logo=X&logoColor=white&label=%40SakshamShrey&labelColor=black&color=black)
 
 
 <br>
