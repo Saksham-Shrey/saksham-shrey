@@ -1,4 +1,6 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D16AQFr_K58wWxXjA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1713868434223?e=1730937600&v=beta&t=32Nm_tVAjn5Mt9l-2XmwGwQz8vPzqi6RfTHoHeDQsQM)
+![LinkedInBanner](https://github.com/user-attachments/assets/bf3db4d1-454c-40c7-9794-72a188b51744)
+
+
 
 <h1 align="center">Hello, I'm Saksham Shrey</h1>
 
