@@ -10,7 +10,7 @@
   <br>
   <strong>➤ I write articles on <a href="https://sakshamshrey.hashnode.dev/">Hashnode</a>.</strong>  
   <br>
-  <strong>➤ Ask me about Swift, SwiftUI, UIKit, Firebase, Java, Javascript, Node.JS, Vue.JS, SQL and NoSQL.</strong>  
+  <strong>➤ Ask me about Swift, SwiftUI, UIKit, Firebase, Java, Python, Flask, FastAPI, Javascript, Node.JS, Vue.JS, SQL and NoSQL.</strong>  
   <br>
   <strong>➤ Reach me at <a href="mailto:sakshamshrey@gmail.com">sakshamshrey@gmail.com</a></strong>
 </div>
