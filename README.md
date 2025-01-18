@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/saksham-shrey">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" height="40" width="160">
 </a>
-<a href="https://stackoverflow.com/users/20044326">
+<a href="https://stackoverflow.com/users/29247104">
   <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=plastic" alt="Stack Overflow" height="40" width="160">
 </a>
 <img src="https://img.shields.io/twitter/follow/SakshamShrey?logo=X&logoColor=white&label=%40SakshamShrey&labelColor=black&color=black&style=plastic" alt="Twitter" height="40" width="200">
