@@ -78,12 +78,14 @@
 
 <div align=center>   
   <img src="https://github-profile-trophy.vercel.app?username=saksham-shrey&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" >
-          
-  <img width=800 src="https://github-readme-streak-stats.herokuapp.com/?user=saksham-shrey&theme=radical&hide_border=false&border_radius=20" >
+
+
+  <img width=800 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saksham-shrey&theme=radical" 
+       alt="GitHub Profile Summary Card" >
+
+
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=saksham-shrey&theme=radical&hide_rank=true&include_all_commits=true&count_private=true&border_radius=20" >
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham-shrey&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=20" >
-
-
 </div>
 
 
