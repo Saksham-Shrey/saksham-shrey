@@ -6,7 +6,7 @@
 
 
 <div style="font-size: 20px;">
-  <strong>➤ I’m currently working on Native Mobile (iOS) Application development using SwiftUI.</strong>  
+  <strong>➤ I’m currently working on Native Mobile (iOS) Application development using SwiftUI and actively tinkering with Backend Technologies like Java & SpringBoot and Python & FastAPI.</strong>  
   <br>
   <strong>➤ I write articles on <a href="https://sakshamshrey.hashnode.dev/">Hashnode</a>.</strong>  
   <br>
