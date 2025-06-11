@@ -23,7 +23,9 @@
 <a href="https://linkedin.com/in/saksham-shrey">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" height="40" width="160">
 </a>
+<a href="https://x.com/in/SakshamShrey">
 <img src="https://img.shields.io/twitter/follow/SakshamShrey?logo=X&logoColor=white&label=%40SakshamShrey&labelColor=black&color=black&style=plastic" alt="Twitter" height="40" width="200">
+</a>
 </div>
 
 <br>
