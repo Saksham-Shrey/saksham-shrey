@@ -1,7 +1,9 @@
 ![LinkedInBanner](https://github.com/user-attachments/assets/bf3db4d1-454c-40c7-9794-72a188b51744)
 
 <div align="center">
-<h1>🍁 Saksham Shrey 🍁</h1>
+
+### 🍁 **Saksham Shrey** 🍁
+
 <p>
   <a href="https://www.linkedin.com/in/saksham-shrey/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
   <a href="https://sakshamshrey.com/"><img src="https://img.shields.io/badge/Website-d5d5d5?style=for-the-badge&logo=googlechrome&logoColor=0A0209" alt="Website" /></a>
@@ -14,14 +16,11 @@
 
 <br>
 
-## 👋 Hello, I am Saksham Shrey (🗣️ /ˈsʌkʃəm ʃreɪ/)
+### 👋 Hello, I am Saksham Shrey (🗣️ /ˈsʌkʃəm ʃreɪ/)
 
-➤ I'm currently working on **Native Mobile (iOS) Application development** using SwiftUI and actively tinkering with **Distributed Systems** and their Architectures.
-
-➤ I write articles on [Hashnode](https://sakshamshrey.hashnode.dev/).
-
-➤ Ask me about **Swift, SwiftUI, UIKit, Firebase, Java, Python, Flask, FastAPI, Javascript, Node.JS, Vue.JS, SQL and NoSQL**.
-
+➤ I'm currently working on **Native Mobile (iOS) Application development** using SwiftUI and actively tinkering with **Distributed Systems** and their Architectures.  
+➤ I write articles on [Hashnode](https://sakshamshrey.hashnode.dev/).  
+➤ Ask me about **Swift, SwiftUI, UIKit, Firebase, Java, Python, Flask, FastAPI, Javascript, Node.JS, Vue.JS, SQL and NoSQL**.  
 ➤ Reach me at [sakshamshrey@gmail.com](mailto:sakshamshrey@gmail.com)
 
 <br>
