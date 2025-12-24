@@ -50,6 +50,10 @@
 | **[Optimistic v/s Pessimistic Locking](https://sakshamshrey.hashnode.dev/optimistic-vs-pessimistic-locking)**<br><br>**Nov 4, 2025** • 📖 4 min read<br><br>Robust concurrency control is no longer a theoretical concept. It is the foundation of every scalable and reliable fintech platform, e-commerce...    | <a href="https://sakshamshrey.hashnode.dev/optimistic-vs-pessimistic-locking"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1762264436812/6d5b1a56-f2a3-4d8c-a68b-1be34acabbdc.png?w=1600&h=840&fit=crop&crop&crop=entropy&auto=compress,format&format=webp" alt="Optimistic vs Pessimistic Locking" width="300"/></a> |
 | **[Closures and Async Ops in Swift](https://sakshamshrey.hashnode.dev/closures-and-async-ops-in-swift)**<br><br>**Nov 10, 2024** • 📖 15 min read<br><br>Closures !? Closures are blocks of code you can pass around in Swift. They're like functions but lighter and more flexible. Closures let you run code... | <a href="https://sakshamshrey.hashnode.dev/closures-and-async-ops-in-swift"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1731132682972/d529a14d-4083-47da-ac65-231b8881e5fc.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Closures and Async Ops in Swift" width="300"/></a>         |
 
+
+<br>
+
+
 <details>
 <summary><b>📚 Show More Posts</b></summary>
 
